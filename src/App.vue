@@ -21,24 +21,23 @@
       class="w-auto h-1/2 mx-auto flex flex-row item-center justify-center border-b-4 border-red-700"
     >
       <ul class="flex flex-row item-center justify-center h-full text-gray-700 text-sm">
-        <li class="pr-3 py-3">
+        <li class="pr-3 py-3 flex flex-row items-center">
           <i class="icon material-icons">settings</i>
           <span>
-            <b>PRODUCTS</b>
+            <router-link to="/news" ><b>NEWS</b></router-link>
           </span>
         </li>
-        <li class="py-3">
-          <span class="border-r-2 border-l-2 border-gray-400 my-auto px-3">
-            <i class="icon material-icons">av_timer</i>
+        <li class="py-3 flex flex-row items-center">
+          <span class="border-r-2 border-l-2 border-gray-400 my-auto px-3 text-lg">
             <span>
-              <b>MOTORSPORTS</b>
+              <router-link to="/" ><b>HOME</b></router-link>
             </span>
           </span>
         </li>
-        <li class="pl-3 py-3">
+        <li class="pl-3 py-3 flex flex-row items-center">
           <i class="icon material-icons">info</i>
           <span>
-            <b>About NISMO</b>
+            <router-link to="/about" ><b>ABOUT</b></router-link>
           </span>
         </li>
       </ul>
@@ -47,3 +46,6 @@
 
   <router-view />
 </template>
+<style>
+  @import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+</style>

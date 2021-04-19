@@ -1,0 +1,100 @@
+{
+  "news": [
+    {
+      "date": "February 9, 2019",
+      "title": "Nissan and NISMO announce 2019 motorsports programs",
+      "type": "motors",
+      "id": 1
+    },
+    {
+      "date": "January 10, 2020",
+      "title": "Nissan and NISMO announce 2020 Super GT GT500 class driver lineup",
+      "type": "motors",
+      "id": 2
+    },
+    {
+      "date": "February 16, 2020",
+      "title": "Nissan and Nismo confirm 2020 motorsports programs",
+      "type": "motors",
+      "id": 3
+    },
+    {
+      "date": "May 25, 2020",
+      "title": "Nissan e.dams scores first win in Formula E esports series",
+      "type": "motors",
+      "id": 4
+    },
+    {
+      "date": "June 2, 2020",
+      "title": "Nissan e.dams takes podium in Formula E esports race",
+      "type": "motors",
+      "id": 5
+    },
+    {
+      "date": "June 8, 2020",
+      "title": "Nissan e.dams wins final round of ABB Formula E Race at Home Challenge",
+      "type": "motors",
+      "id": 6
+    },
+    {
+      "date": "June 17, 2020",
+      "title": "Nissan e.dams ready to resume Formula E racing at Berlin showdown",
+      "type": "motors",
+      "id": 7
+    },
+    {
+      "date": "June 19, 2020",
+      "title": "Nissan e dams to race its third formula e season in 2021",
+      "type": "motors",
+      "id": 8
+    },
+    {
+      "date": "July 20, 2020",
+      "title": "Top 10 Finishes for Nissan at Fuji Season Opener",
+      "type": "motors",
+      "id": 9
+    },
+    {
+      "date": "August 6, 2020",
+      "title": "Nissan e.dams takes podium in first Formula e berlin double-header",
+      "type": "motors",
+      "id": 10
+    },
+    {
+      "date": "August 9, 2020",
+      "title": "Nissan e.dams takes second podium in Formula E Berlin season finale series",
+      "type": "motors",
+      "id": 11
+    },
+    {
+      "date": "January 13, 2017",
+      "title": "Nismo Offers NISMO N Attack Package for 2017 NISSAN GT-R (R35) NISMO",
+      "type": "cars",
+      "id": 12
+    },
+    {
+      "date": "March 29, 2017",
+      "title": "NISMO announces senior management appointments",
+      "type": "cars",
+      "id": 13
+    },
+    {
+      "date": "May 31, 2018",
+      "title": "2018 model NISSAN GT-R NISMO GT3 to go on sale",
+      "type": "cars",
+      "id": 14
+    },
+    {
+      "date": "July 22, 2020",
+      "title": "2020 NISMO Festival canceled",
+      "type": "cars",
+      "id": 15
+    },
+    {
+      "date": "December 4, 2020",
+      "title": "Skyline GT-R (R 32, R 33, R 34) restoration business starts \"NISMO restored car\"",
+      "type": "cars",
+      "id": 16
+    }
+  ]
+}
